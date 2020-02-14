@@ -1,0 +1,9 @@
+/* .cross {
+    width: 8.5vh;
+    height: 8.5vh;
+    background: linear-gradient(white, white), linear-gradient(white, white);
+    background-position: center;
+    background-size: 100% 1px, 1px 100%;
+    background-repeat: no-repeat;
+    transform: rotate(45deg);
+} */
